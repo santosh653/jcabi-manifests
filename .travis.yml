@@ -23,5 +23,5 @@ env:
     - MAVEN_OPTS="-Xmx256m"
     - JAVA_OPTS="-Xmx256m"
 jdk:
-  - openjdk8
+  - openjdk11
 
